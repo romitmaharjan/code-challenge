@@ -1,4 +1,4 @@
-The application is a simulation of Pacman moving on in a grid, of dimensions 5 units x 5 units.
+The application is a simulation of Pacman moving on a grid of dimensions 5 units x 5 units.
 
 Pacman is free to roam around the surface of the grid, but is prevented to move off the grid. Any instruction that will move the Pacman off the grid will be disregarded.
 
