@@ -19,3 +19,5 @@ LEFT and RIGHT will rotate the Pacman 90 degrees in the specified direction with
 REPORT will display the current position and facing direction of the Pacman in the Output box.
 
 Input can be entered on the textbox provided and only valid instructions will be displayed on the "Input History".
+
+Please refer to the test-data.txt file for the test-data samples.
