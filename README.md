@@ -35,27 +35,43 @@ REPORT
 Output: 1,3,EAST
 
 
+
 Sample 2:
 PLACE 5,5,SOUTH
+
 MOVE 
+
 MOVE
+
 RIGHT
+
 MOVE 
+
 MOVE
+
 LEFT
+
 REPORT
 
 Output: 3,3,SOUTH
 
 
+
 Sample 3:
 PLACE 0,0,EAST
+
 RIGHT
+
 MOVE
+
 LEFT
+
 MOVE
+
 LEFT
+
 MOVE
+
 REPORT
 
 Output: 0,1,NORTH
