@@ -36,6 +36,7 @@ Output: 1,3,EAST
 
 
 
+
 Sample 2:
 PLACE 5,5,SOUTH
 
@@ -54,6 +55,7 @@ LEFT
 REPORT
 
 Output: 3,3,SOUTH
+
 
 
 
