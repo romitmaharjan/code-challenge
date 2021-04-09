@@ -25,8 +25,11 @@ Test Data for the application:
 
 Sample 1:
 PLACE 1,2,NORTH
+
 MOVE
+
 RIGHT
+
 REPORT
 
 Output: 1,3,EAST
